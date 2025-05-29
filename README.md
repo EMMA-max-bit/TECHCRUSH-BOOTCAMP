@@ -5,7 +5,7 @@
 ## Creating of database
 
 ### --Create Database
-### CREATE DATABASE TechCrush;
+### CREATE DATABASE TechCrush; [download here](https://www.microsoft.com/)
 
 ### --use database
 ### USE TechCrush;
